@@ -1,2 +1,4 @@
-Contact Page: /old-contact
-opens at: 10:00 
+Contact Page: contact
+opens at: 9:00 
+
+days : monday to friday
